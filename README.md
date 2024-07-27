@@ -17,3 +17,18 @@ You can generate some saliency maps based on the field of view (FoV) fixation by
 python ./Script/Saliency.py
 ```
 
+## Acknowledgement
+
+We are sincerely grateful to the awesome 50 volunteers and all dedicated developers. We had a happy time working together!
+
+## Citation
+If you find this project useful, please consider citing:
+
+```bibtex
+@inproceedings{10.1145/3625468.3652176,
+author = {Xu, Yutong and Du, Junhao and Wang, Jiahe and Ning, Yuwei and Zhou, Sihan and Cao, Yang},
+title = {Panonut360: A Head and Eye Tracking Dataset for Panoramic Video},
+year = {2024},
+booktitle = {Proceedings of the 15th ACM Multimedia Systems Conference}
+}
+```
