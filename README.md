@@ -25,7 +25,7 @@ We are sincerely grateful to the awesome 50 volunteers and all dedicated develop
 If you find this project useful, please consider citing:
 
 ```bibtex
-@inproceedings{10.1145/3625468.3652176,
+@inproceedings{Panonut360,
 author = {Xu, Yutong and Du, Junhao and Wang, Jiahe and Ning, Yuwei and Zhou, Sihan and Cao, Yang},
 title = {Panonut360: A Head and Eye Tracking Dataset for Panoramic Video},
 year = {2024},
